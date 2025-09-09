@@ -15,3 +15,7 @@ Browse through the sections to explore my work.
 ## Contributors
 
 - [Thokozile](https://github.com/mabenathokozile1-gif)
+
+## Contact
+
+https://github.com/mabenathokozile1-gif/My-first-portfolio.git
